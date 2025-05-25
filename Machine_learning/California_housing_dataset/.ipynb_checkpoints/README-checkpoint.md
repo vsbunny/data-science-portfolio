@@ -6,6 +6,7 @@
 This project explores various linear regression models and a Random Forest Regressor to predict median house values in California, based on the California Housing dataset. It highlights an iterative approach to model improvement, starting from a simple linear model and addressing challenges of non-linearity and heteroscedasticity through advanced techniques.
 
 ## Project Structure
+```
 .
 ├── README.md                           <- This file
 ├── Vectorization_efficiency.ipynb      <- Demonstrates the efficiency of vectorized operations
@@ -17,9 +18,8 @@ This project explores various linear regression models and a Random Forest Regre
  ├── main.py
  ├── random_forest_model.pkl
  ├── feature_names.pkl
- └── requirements.txt
- └── RandomForest.ipynb
- 
+ └── requirements.txt                    <- API-specific dependencies
+```
  
 ## Features / Highlights
 
