@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pydantic # FastAPI uses pydantic for data validation
+numpy
+scikit-learn
+joblib
