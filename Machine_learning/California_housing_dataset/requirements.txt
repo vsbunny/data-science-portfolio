@@ -1,0 +1,6 @@
+# Core libraries for California Housing Price Prediction notebooks
+numpy
+pandas
+scikit-learn
+matplotlib
+joblib
