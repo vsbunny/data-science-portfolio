@@ -1,0 +1,1 @@
+CurlyM	omega_m	logL
