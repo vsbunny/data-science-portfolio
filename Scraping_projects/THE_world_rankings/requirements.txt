@@ -1,0 +1,5 @@
+# Python dependencies for the THE World Rankings Scraper and Wrangling project
+selenium
+beautifulsoup4 # For parsing the HTML
+pandas       # For data wrangling
+numpy        # Often a dependency of pandas, good to explicitly include

@@ -1,0 +1,6 @@
+# Python dependencies for the QS World Rankings Web Scraper project
+scrapy
+selenium
+nest-asyncio
+pandas # For the data wrangling script
+numpy 
