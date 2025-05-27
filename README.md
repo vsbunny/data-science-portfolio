@@ -26,8 +26,14 @@ Here's an overview of the projects included in this portfolio:
 * ### [Cosmological Parameter Estimation (Bayesian Inference with cpnest)](./Observational_cosmology/README.md)
     A scientific computing project focused on estimating fundamental cosmological parameters from observational data using advanced Bayesian inference and nested sampling techniques with the `cpnest` library.
 
-* ### [Web Scrapers: Data Acquisition & Analysis](./Scraping_projects/README.md)
-    A collection of web scraping projects demonstrating versatile data acquisition using both the robust Scrapy framework (with Selenium for dynamic content) and the simpler Beautiful Soup library, alongside data wrangling techniques using Pandas.
+* ### Web Scrapers: Data Acquisition & Analysis
+    A collection of web scraping projects demonstrating versatile data acquisition and processing techniques.
+
+    * #### [QS World University Rankings Scraper & Data Wrangling](./Scraping_projects/QS_world_rankings/README.md)
+        This project focuses on extracting detailed university ranking data from the QS World University Rankings website using Scrapy with Selenium for dynamic content, followed by data wrangling with Pandas.
+
+    * #### [Times Higher Education (THE) World University Rankings Scraper & Data Wrangling](./Scraping_projects/THE_world_rankings/README.md)
+        This project utilises Selenium and Beautiful Soup for efficient extraction of university rankings from the Times Higher Education website, combined with Pandas for subsequent data processing and standardization.
 
 ## Setup & Running the Portfolio
 
