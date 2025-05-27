@@ -20,7 +20,7 @@ A comprehensive collection of data science projects showcasing hands-on skills i
 
 Here's an overview of the projects included in this portfolio:
 
-* ### [California Housing Price Prediction (Linear Regression & Random Forest)](./California_housing_dataset/README.md)
+* ### [California Housing Price Prediction (Linear Regression & Random Forest)](./Machine_learning/California_housing_dataset/README.md)
     An in-depth exploration of housing price prediction, showcasing iterative model development, extensive feature engineering, vectorized computations, and a comparison between Linear Regression and Random Forest models. Includes a deployed API for prediction.
 
 * ### [Cosmological Parameter Estimation (Bayesian Inference with cpnest)](./Observational_cosmology/README.md)
