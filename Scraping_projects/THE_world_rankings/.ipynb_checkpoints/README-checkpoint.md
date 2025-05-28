@@ -67,8 +67,6 @@ To run this project on your local machine, you'll need to set up a dedicated Pyt
     ```bash
     pip install -r requirements.txt
     ```
-    (Ensure your `requirements.txt` file is located in *this* `THE_world_rankings/` folder.)
-
 ## Usage
 
 To run the scraper and data wrangling:

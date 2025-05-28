@@ -74,8 +74,6 @@ To get this project running on your local machine, follow these steps:
     ```bash
     pip install -r ../requirements.txt
     ```
-    (Note the `../` because `requirements.txt` is assumed to be in the root of `data-science-portfolio/`.)
-
 ## Usage
 
 * **To explore the analysis and model development:**

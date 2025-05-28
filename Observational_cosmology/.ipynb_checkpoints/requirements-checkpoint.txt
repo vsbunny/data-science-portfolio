@@ -1,0 +1,6 @@
+# Python dependencies for the Observational Cosmology project
+astropy
+numpy
+cpnest
+matplotlib
+corner

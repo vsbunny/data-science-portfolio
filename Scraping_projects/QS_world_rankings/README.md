@@ -3,7 +3,7 @@
 [![Python Version](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](../../../LICENSE) ## Description
 
-This project showcases a data acquisition and processing pipeline for QS World University Rankings. It utilizes the powerful Scrapy framework integrated with Selenium for extracting data from dynamic web pages, followed by data wrangling using Pandas to clean, standardize, and organize the scraped information. This project addresses common challenges in web scraping, such as handling dynamic content and organizing varied output data.
+This project showcases a data acquisition and processing pipeline for QS World University Rankings. It utilises the powerful Scrapy framework integrated with Selenium for extracting data from dynamic web pages, followed by data wrangling using Pandas to clean, standardize, and organize the scraped information. This project addresses common challenges in web scraping, such as handling dynamic content and organizing varied output data.
 
 ## Project Structure
 ```
