@@ -30,7 +30,7 @@ To run this project on your local machine, you'll need to set up a dedicated Pyt
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/vsbunny/data-science-portfolio.git](https://github.com/vsbunny/data-science-portfolio.git)
-    cd data-science-portfolio/scraping_projects/QS_world_rankings
+    cd data-science-portfolio/Scraping_projects/QS_world_rankings
     ```
 
 2.  **Install WebDriver (for Selenium/Scrapy):**

@@ -1,7 +1,8 @@
 # Times Higher Education (THE) World University Rankings Scraper & Data Wrangling
 
 [![Python Version](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](../../../LICENSE) ## Description
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](../../../LICENSE) 
+## Description
 
 This project demonstrates a Python-based pipeline for acquiring and processing data from the Times Higher Education (THE) World University Rankings website. It utilizes Selenium for robust web scraping of dynamic content and Beautiful Soup for efficient HTML parsing. The extracted data is then processed using Pandas for cleaning, standardization, and consolidation into a usable format.
 
@@ -14,7 +15,7 @@ This project demonstrates a Python-based pipeline for acquiring and processing d
 ├── requirements.txt                    <- Python dependencies for this project
 ├── THE_rankings_raw_data/              <- Directory for raw scraped output CSVs (e.g., subject_rankings_year.csv)
 ```
-)
+
 
 ## Features / Highlights
 
@@ -32,7 +33,7 @@ To run this project on your local machine, you'll need to set up a dedicated Pyt
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/vsbunny/data-science-portfolio.git](https://github.com/vsbunny/data-science-portfolio.git)
-    cd data-science-portfolio/scraping_projects/THE_world_rankings
+    cd data-science-portfolio/Scraping_projects/THE_world_rankings
     ```
 
 2.  **Install WebDriver (for Selenium):**
